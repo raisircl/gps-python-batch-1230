@@ -1,0 +1,6 @@
+Python File Handling Lecture.
+Student learned how to create a file.
+This data is saved permanently.
+
+Day 2: Practiced read and append mode.
+Day 3: Practiced CSV basics.
